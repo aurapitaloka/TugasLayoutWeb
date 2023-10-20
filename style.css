@@ -1,0 +1,73 @@
+body {
+    font-family: Arialrgb(57, 103, 203)serif;
+    background-color: #6d7381;
+}
+
+header {
+    background-color: #545a69;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: #545a69;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+#Saya {
+    display: flex;
+    align-items: center;
+}
+#Saya img {
+    width: 200px;
+    height: 200px;
+    margin-right: 50px;
+}
+.header-text {
+    text-decoration: none;
+    color: #fff;
+    font-size: 16.5px;
+    margin-top: 30px;
+
+    line-height: 0.5px;
+}
+.main-text {
+    font-size: 50px;
+    color: #fff;
+    line-height: 0.5px;
+}
+nav ul {
+    list-style: none;
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    color: #132d6a;
+    margin-bottom: 155px;;
+}
+nav li {
+    margin-right: 20px;
+}
+
+.section {
+    display: flex;
+    margin: 20px;
+}
+.section > div {
+    flex: 1;
+}
+h2, p {
+color: #fff; 
+}
+footer {
+    text-align: center;
+    background-color: #545a69; 
+    color: #fff; 
+    padding: 20px;
+}
+   
